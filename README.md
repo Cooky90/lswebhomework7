@@ -5,8 +5,11 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Array
+- An Array is a data type that is used to store elements, elements can be viewed as pieces of data. Data can be added or remove from an array at will. For example, you could have an Array for a list of customers in which customers can get added or taken away from the array.
 	* Object
+-An Object is Javascript is a collection of data that is stored. Each object will contain a key and a value. An example would be a Dog object which would contain keys like colour, height and breed in which the values would correspond with the keys that are being used.
 	* Method
+- A method is a function that is associated with a previously created Object.  Usually an object is called follow by “.” and the method name which is then run. I.e. Dog.colour
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
